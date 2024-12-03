@@ -5,6 +5,7 @@ const App = () => {
     <div> 
       <Header/>
       <Hero/>
+      <Category/>
     </div>
   )
 }
